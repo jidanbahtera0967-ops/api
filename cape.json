@@ -1,6 +1,7 @@
-{"name":"Indonesia",
- "positif":"3,979,456",
- "sembuh":"3,546,324",
- "meninggal":"126,372",
- "dirwat":"306,760"
+{
+  "name": "Indonesia",
+  "positif": 3979456,
+  "sembuh": 3546324,
+  "meninggal": 126372,
+  "dirawat": 306760
 }
